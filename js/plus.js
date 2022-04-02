@@ -1,0 +1,1 @@
+accordion({elm: 'acordition-ul'});
